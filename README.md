@@ -1,4 +1,4 @@
-# Academic Performance Prediction Project Readme
+# Academic Performance Prediction Project 
 
 ## Overview
 
