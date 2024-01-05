@@ -40,6 +40,6 @@ The project repository is organized as follows:
 
 - **data:** Contains the raw and processed datasets.
 - **notebooks:** Jupyter notebooks documenting the data preprocessing, EDA, and model evaluation processes.
-- **models:** Saved machine learning models for reproducibility.
+- **powerBi dashboard**: PowerBi dashboard file for the data analysis 
 - **reports:** Final reports summarizing the methodology, key findings, and insights.
 
